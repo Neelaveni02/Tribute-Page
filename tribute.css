@@ -1,0 +1,31 @@
+.text-center:hover {
+    color: red;
+    font-family: cursive;
+}
+
+.famous-quote:hover {
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+.detials {
+    color: brown;
+    font-style: italic;
+}
+
+h2 {
+    font-display: bold;
+}
+
+.ul {
+    background-color: aquamarine;
+}
+
+.points {
+    background-color: skyblue;
+}
+
+.full {
+    background-color: coral;
+}
